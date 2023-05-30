@@ -1,6 +1,6 @@
 [![MasterHead]()]
 <h1 align="center">Hi there👋, I'm Ahana Biswas</h1>
-<h3 align="center">A freshman UG from Kolkata, India.</h3>
+<h4 align="center">A freshman UG residing at Kolkata, India. I'm a parallel degree student pursuing BS in Data Science from IIT Madras and BTech in CSE from NSEC,Kolkata. </h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswasahana&label=Profile%20views&color=0e75b6&style=flat" alt="biswasahana" /> </p>
