@@ -1,4 +1,4 @@
-[![MasterHead]()]
+
 <h1 align="center">Hi there👋, I'm Ahana Biswas</h1>
 <h4 align="center">I'm a parallel degree student pursuing BS in Data Science from IIT Madras and BTech in CSE from NSEC,Kolkata. I'm based in Kolkata,India.</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
